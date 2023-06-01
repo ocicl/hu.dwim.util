@@ -1,0 +1,9 @@
+* hu.dwim.util
+
+Utilties
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/hu-dwim/hu.dwim.util.git |
+| commit  | 3def50f                                         |
+| systems | hu.dwim.util hu.dwim.util+iolib                 |
+|---------+-------------------------------------------------|
